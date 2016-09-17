@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+#daisy-site .navbar-brand {
+    margin-left: 15px;
+    font-size: 30px;
+    padding: 15px;
+}
+#daisy-site #nav-list a {
+    text-align: center;
+}
+#daisy-site .container {
+
+}
+#daisy-site .col-xs-12 {
+    border: 1px solid gray;
+    background-color: #2aabd2;
+    margin-bottom: 10px;
+}
+#daisy-site .container h2 {
+    text-align: center;
+}
